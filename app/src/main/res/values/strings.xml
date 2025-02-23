@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medical Care</string>
+    <string name="mi_nombre">Steven Nuñez</string>
+    <string name="registro">Registrate</string>
+    <string name="texto_introductrio">Consultas médicas a un solo clic, conoce nuestro servicio personalizado justo aquí</string>
+    <string name="comienza">Comienza</string>
+    <string name="texto_bienvenida_login">La aventura está por iniciar, por favor inicia sesión</string>
+    <string name="ingresar">Ingresar</string>
+</resources>
